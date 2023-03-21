@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm!%20YoungMin!%20Kim&animation=twinkling&fontSize=60&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi!%20I'm!%20YoungMin!%20Kim&animation=twinkling&fontSize=60&fontheight=250)
