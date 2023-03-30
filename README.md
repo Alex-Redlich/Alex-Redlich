@@ -1,9 +1,10 @@
 <div align="center">
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlex-Redlich&count_bg=%23535353&title_bg=%23DC9F00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
+    <div align='right'>
+        ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlex-Redlich&count_bg=%23535353&title_bg=%23DC9F00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false&)
+    </div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=YoungMin%20Kim&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=Alex_Redlich😎&descSize=25&descAlign=85&descAlignY=60&animation=twinkling)
 
+# Honesty is the best policy ⚖
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark)
 
