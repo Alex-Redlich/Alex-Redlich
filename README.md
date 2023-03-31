@@ -24,7 +24,6 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
 
 <br>
