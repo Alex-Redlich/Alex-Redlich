@@ -20,10 +20,10 @@
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03" />
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Redlich&layout=compact&theme=dark&hide_border=true" />
+  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Redlich&layout=compact&theme=dark&hide_border=true" />
 </a>
 
 
