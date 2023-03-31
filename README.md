@@ -18,7 +18,9 @@
 <br>
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALex-Redlich&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
