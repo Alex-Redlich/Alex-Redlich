@@ -10,7 +10,7 @@
 
 <div align='right'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatrae&weight=500&size=25&pause=1000&color=F7F7F7&width=600&lines=Honesty+is+the+best+policy%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatrae&weight=600&size=25&pause=1000&color=F7F7F7&width=600&lines=Honesty+is+the+best+policy%F0%9F%98%80)](https://git.io/typing-svg)
 
 </div>
 <hr>
