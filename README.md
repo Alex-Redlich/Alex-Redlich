@@ -17,8 +17,8 @@
 <br>
 <br>
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=truewidth=50%)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALex-Redlich&theme=dark&hide_border=truewidth=50%)](https://git.io/streak-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&width=50%)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ALex-Redlich&theme=dark&hide_border=true&width=50%)](https://git.io/streak-stats)
 
 <br>
 
