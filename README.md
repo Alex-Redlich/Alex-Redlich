@@ -24,9 +24,6 @@
 
 </div>
 
-
-
-
 <hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
