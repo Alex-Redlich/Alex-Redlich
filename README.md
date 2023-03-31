@@ -10,7 +10,7 @@
 
 <div align='right'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&width=435&lines=Honesty+is+the+best+policy%F0%9F%98%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=25&pause=1000&color=F7F7F7&width=435&lines=Honesty+is+the+best+policy+%F0%9F%98%80)](https://git.io/typing-svg)
 
 </div>
 <hr>
@@ -19,7 +19,6 @@
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALex-Redlich&theme=dark&hide_border=true&width=50%)](https://git.io/streak-stats)
 
 <br>
 
