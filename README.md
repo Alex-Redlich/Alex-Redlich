@@ -17,8 +17,10 @@
 <br>
 <br>
 <div width=50%>
+
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ALex-Redlich&theme=dark&hide_border=true&width=50%)](https://git.io/streak-stats)
+
 </div>
 <br>
 
