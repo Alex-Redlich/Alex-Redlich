@@ -19,6 +19,13 @@
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Redlich&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex-Redlich&repo=github-readme-stats&show_icons=true&theme=dark&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=fcba03" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark&hide_border=true" />
+</a>
+
 
 <br>
 
