@@ -19,16 +19,18 @@
 ### Hi! I'm Alex 🙌
 
 안녕하세요. 저는 김영민 입니다.<br>
-해당 깃 허브는 저의 개인적인 공부와 자료 정리를 위해 사용하는 레포지토리입니다.<br>
-많이 배우고 많이 노력하겠습니다. 감사합니다.
+제 취미는 게임, 악기 연주입니다.<br>
+하고싶은거 잔뜩인 하고잽이 나는야 **알렉스**
 
 </div>
 
 <hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ghg303&theme=warm)
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=v3030v&theme=warm)
 <br>
 <div align='left'>
 
@@ -74,4 +76,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alex-Redlich&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
- ![](./profile-3d-contrib/profile-green-animate.svg)
+<div align='left'>
+
+# 📸 Profile pic Update
+
+
+
+</div>
