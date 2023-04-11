@@ -27,10 +27,10 @@
 <hr>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ghg303&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ghg303&theme=dark)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=v3030v&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=v3030v&theme=dark)
 <br>
 <div align='left'>
 
