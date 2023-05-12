@@ -103,6 +103,12 @@
   <br>
   <img src="https://github.com/Alex-Redlich/Alex-Redlich/assets/122436515/23f6548c-902f-41d6-9702-0780e4c112e2.JPG"  width="300" height="300"/> <br>
   자동차 딜러 아님<br>
+  <br>
+  <img src="https://github.com/Alex-Redlich/Alex-Redlich/assets/122436515/db9bb208-b78a-45a3-9e7b-01d7730b0e85.JPG"  width="300" height="300"/> <br>
+  조승연이 옛날에 그려준건데<br>
+  갑자기 추억여행 떠나서 찾아버림<br>
+  당분간은 미네랄 인간으로 살 
+
   
 
  
