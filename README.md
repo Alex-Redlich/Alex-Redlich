@@ -83,22 +83,26 @@
 # 📸 Profile pic Update
 </div>
 
-  <img src="https://user-images.githubusercontent.com/122436515/230290863-5d80e69b-3e1b-4e7e-8430-a12416b8cc6f.jpg"  width="200" height="200"/> <br>
+  <img src="https://user-images.githubusercontent.com/122436515/230290863-5d80e69b-3e1b-4e7e-8430-a12416b8cc6f.jpg"  width="300" height="300"/> <br>
 
   우리 코히 사진! 보고싶어서 맨날 보러 들어옴<br>
   다크모드하면 잘 안보여서..
   <br>  
-  <img src="https://user-images.githubusercontent.com/122436515/230289805-a82c992a-ad1e-4fe5-a389-ddfc16853e9c.jpg"  width="200" height="200"/> <br>
+  <img src="https://user-images.githubusercontent.com/122436515/230289805-a82c992a-ad1e-4fe5-a389-ddfc16853e9c.jpg"  width="300" height="300"/> <br>
   둥이 사진! Hi 하고 있는게 프로필에 꽤나 어울렸다<br>
   꽤나 괜찮았는데 고양이가 코딩하는걸로 오해(?) 할까봐 바꿈 ㅋ
   <br>
-  <img src="https://user-images.githubusercontent.com/122436515/230290168-6c74e4ce-ed47-4109-8a4e-babcbf878003.jpg"  width="200" height="200"/> <br>
+  <img src="https://user-images.githubusercontent.com/122436515/230290168-6c74e4ce-ed47-4109-8a4e-babcbf878003.jpg"  width="300" height="300"/> <br>
   개발자 답게 이모지로 한껏 힘줘버림<br>
   여기까진 좋았다....
   <br>
-  <img src="https://user-images.githubusercontent.com/122436515/230290324-6c751e73-aaa7-461c-9ccc-cf562ff5d7b0.JPG"  width="200" height="200"/> <br>
+  <img src="https://user-images.githubusercontent.com/122436515/230290324-6c751e73-aaa7-461c-9ccc-cf562ff5d7b0.JPG"  width="300" height="300"/> <br>
   **❗프사 본인 아님❗**<br>
   묘하게 닮은 잼민스럽게 프로필이 변경됨(타의적으로)<br>
   근데 꽤나 날렸을꺼 같아서 잘어울려서 그냥 둠 ㅋㅋ
+  <br>
+  <img src="https://github.com/Alex-Redlich/Alex-Redlich/assets/122436515/23f6548c-902f-41d6-9702-0780e4c112e2.JPG"  width="300" height="300"/> <br>
+  자동차 딜러 아님<br>
+  
 
  
