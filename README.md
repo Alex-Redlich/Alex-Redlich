@@ -24,16 +24,6 @@
 
 </div>
 
-<hr>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ghg303&theme=dark)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=v3030v&theme=dark)
-<br>
-<div align='left'>
-
 # 💪Skills
 
 </div>
@@ -66,11 +56,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jjiming94@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ghg303@naver.com)
 
-
-<img src="https://user-images.githubusercontent.com/122436515/230286553-1d26f476-a909-40d1-bcb3-4f96e133d564.gif"  width="300" height="300"/> <br>
-<br>
-
-<div align='left'>
 
   
 
