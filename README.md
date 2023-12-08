@@ -24,12 +24,6 @@
 
 </div>
 
-<hr>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
-
-<br>
 <div align='left'>
 
 # 💪Skills
@@ -64,12 +58,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jjiming94@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ghg303@naver.com)
 
-<br>
 
-<div align='left'>
 
-# 📈Git status
-
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alex-Redlich&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
