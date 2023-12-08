@@ -19,10 +19,18 @@
 ### Hi! I'm Alex 🙌
 
 안녕하세요. 저는 김영민 입니다.<br>
-제 취미는 게임, 악기 연주(기타, 플룻:도전중!)입니다.<br>
-하고싶은거 잔뜩인 하고잽이 나는야 **알렉스**
+해당 깃 허브는 저의 개인적인 공부와 자료 정리를 위해 사용하는 레포지토리입니다.<br>
+많이 배우고 많이 노력하겠습니다. 감사합니다.
 
 </div>
+
+<hr>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghg303)](https://solved.ac/ghg303/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=v3030v)](https://solved.ac/v3030v/)
+
+<br>
+<div align='left'>
 
 # 💪Skills
 
@@ -39,7 +47,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
+
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -56,6 +64,12 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jjiming94@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ghg303@naver.com)
 
-  
+<br>
 
- 
+<div align='left'>
+
+# 📈Git status
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alex-Redlich&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
