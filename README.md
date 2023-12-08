@@ -18,9 +18,8 @@
 
 ### Hi! I'm Alex 🙌
 
-안녕하세요. 저는 김영민 입니다.<br>
-해당 깃 허브는 저의 개인적인 공부와 자료 정리를 위해 사용하는 레포지토리입니다.<br>
-많이 배우고 많이 노력하겠습니다. 감사합니다.
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jjiming94@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ghg303@naver.com)
 
 </div>
 
@@ -48,15 +47,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-<br>
-
-<div align='left'>
-
-# :mailbox_with_mail: Contacts
-</div>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:jjiming94@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ghg303@naver.com)
 
 
 
