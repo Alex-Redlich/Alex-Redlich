@@ -28,7 +28,7 @@
 
 ### Platforms & Languages
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
+![C#](https://img.shields.io/badge/C#-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Android&logoColor=white)
